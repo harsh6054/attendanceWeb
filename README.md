@@ -21,8 +21,7 @@ This is a simple **PHP-based Attendance Email Notification Project** that allows
 - Bootstrap (for styling)
 - PHPMailer (for email notifications)
 
-## 🔐 Login Credentials (Default)
-
+## 🔐 Login Credentials (Default) 
 
 ### Teacher Login
 - **Email**: `sits_comp`

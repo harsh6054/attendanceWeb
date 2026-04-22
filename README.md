@@ -47,5 +47,3 @@ attendance-email-notification/
 └── attendance_db.sql    # Database file
 
 
-
-

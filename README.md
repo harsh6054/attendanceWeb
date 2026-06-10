@@ -6,7 +6,6 @@ This project is co-owned by: [@harsh6054](https://www.github.com/harsh6054)
 This is a simple **PHP-based Attendance Email Notification Project** that allows users to log in, mark attendance, and send automated email notifications. The project uses **MySQL** as the backend database and is ideal for educational or small office environments.
 
 ## 🚀 Features
-
 - ✅ Login system with session handling
 - 🧾 Attendance marking functionality
 - 📬 Email notifications sent to users/admin
@@ -14,7 +13,6 @@ This is a simple **PHP-based Attendance Email Notification Project** that allows
 - 🔐 Role-based login (admin/user)
 
 ## 🛠️ Technologies Used
-
 - PHP
 - MySQL
 - HTML/CSS

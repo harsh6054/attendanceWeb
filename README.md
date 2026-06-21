@@ -11,7 +11,6 @@ This is a simple **PHP-based Attendance Email Notification Project** that allows
 - 📬 Email notifications sent to users/admin
 - 🛢️ MySQL database integration
 - 🔐 Role-based login (admin/user)
-
 ## 🛠️ Technologies Used
 - PHP
 - MySQL
@@ -20,7 +19,6 @@ This is a simple **PHP-based Attendance Email Notification Project** that allows
 - PHPMailer (for email notifications)
 
 ## 🔐 Login Credentials (Default) 
-
 ### Teacher Login
 - **Email**: `sits_comp`
 - **Password**: `co`

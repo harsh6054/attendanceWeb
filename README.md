@@ -26,12 +26,9 @@ This is a simple **PHP-based Attendance Email Notification Project** that allows
 > ⚠️ You can change these credentials directly from the database table named `users`.
 
 ## 🗄️ Database
-
 - The SQL file `attendance_db.sql` is included in the repo.
 - Import it into your MySQL server to set up the required tables.
-
 ## 📁 Project Structure
-
 ```bash
 attendance-email-notification/
 ├── index.php            # Login page
